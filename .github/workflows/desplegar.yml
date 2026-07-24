@@ -29,10 +29,13 @@ jobs:
           python-version: '3.12'
 
       - name: Instalar dependencias
-        run: pip install --quiet requests beautifulsoup4
+        run: pip install --quiet requests pillow beautifulsoup4
 
       - name: Descargar imágenes del CDN
         run: python scripts/descargar.py
+
+      - name: Logos del carrusel sin fondo
+        run: python scripts/procesar.py
 
       - name: Construir index.html desde la página original
         run: python scripts/construir.py
