@@ -29,15 +29,10 @@ jobs:
           python-version: '3.12'
 
       - name: Instalar dependencias
-        run: |
-          sudo apt-get update -q && sudo apt-get install -y -q pngquant
-          pip install --quiet requests pillow beautifulsoup4
+        run: pip install --quiet requests beautifulsoup4
 
       - name: Descargar imágenes del CDN
         run: python scripts/descargar.py
-
-      - name: Retocar imágenes (logos sin fondo + optimizar)
-        run: python scripts/procesar.py
 
       - name: Construir index.html desde la página original
         run: python scripts/construir.py
@@ -46,14 +41,13 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase || true
           git add assets index.html
-          git diff --cached --quiet || git commit -m "Página construida con imágenes locales"
+          git diff --cached --quiet || git commit -m "Página actualizada"
           git push
 
       - name: Preparar GitHub Pages
         uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
       - name: Empaquetar el sitio
         uses: actions/upload-pages-artifact@v3
