@@ -106,6 +106,7 @@ hf_20260620_010115_9e976b6b-f315-49fd-89cf-70f7d0b128f5_11zon.webp	https://cdn.s
 hf_20260620_010123_d5e437d2-f1fd-4f77-afe6-3d362a2cfdd8_11zon.webp	https://cdn.shopify.com/s/files/1/0806/0207/1291/files/hf_20260620_010123_d5e437d2-f1fd-4f77-afe6-3d362a2cfdd8_11zon.webp
 images_11zon_2.webp	https://cdn.shopify.com/s/files/1/0806/0207/1291/files/images_11zon_2.webp
 mame-1-300x151_10_11zon.webp	https://cdn.shopify.com/s/files/1/0806/0207/1291/files/mame-1-300x151_10_11zon.webp?v=1775254366
+maxresdefault.jpg	https://img.youtube.com/vi/1UXRfTPXWl8/maxresdefault.jpg
 n64-300x151_13_11zon.webp	https://cdn.shopify.com/s/files/1/0806/0207/1291/files/n64-300x151_13_11zon.webp?v=1775254367
 pinballfx3-300x151_11_11zon.webp	https://cdn.shopify.com/s/files/1/0806/0207/1291/files/pinballfx3-300x151_11_11zon.webp?v=1775254367
 ps11.webp	https://cdn.shopify.com/s/files/1/0806/0207/1291/files/ps11.webp
@@ -116,6 +117,7 @@ ps15.webp	https://cdn.shopify.com/s/files/1/0806/0207/1291/files/ps15.webp
 ps16.webp	https://cdn.shopify.com/s/files/1/0806/0207/1291/files/ps16.webp
 ps17.webp	https://cdn.shopify.com/s/files/1/0806/0207/1291/files/ps17.webp
 ps18.webp	https://cdn.shopify.com/s/files/1/0806/0207/1291/files/ps18.webp
+ps2-4-300x151_4_11zon.webp	https://cdn.shopify.com/s/files/1/0806/0207/1291/files/ps2-4-300x151_4_11zon.webp?v=1775254367
 ps21.webp	https://cdn.shopify.com/s/files/1/0806/0207/1291/files/ps21.webp
 ps22.webp	https://cdn.shopify.com/s/files/1/0806/0207/1291/files/ps22.webp
 ps23.webp	https://cdn.shopify.com/s/files/1/0806/0207/1291/files/ps23.webp
@@ -125,6 +127,7 @@ ps26.webp	https://cdn.shopify.com/s/files/1/0806/0207/1291/files/ps26.webp
 ps27.webp	https://cdn.shopify.com/s/files/1/0806/0207/1291/files/ps27.webp
 ps28.webp	https://cdn.shopify.com/s/files/1/0806/0207/1291/files/ps28.webp
 ps29.webp	https://cdn.shopify.com/s/files/1/0806/0207/1291/files/ps29.webp
+ps3-4-300x151_1_11zon.webp	https://cdn.shopify.com/s/files/1/0806/0207/1291/files/ps3-4-300x151_1_11zon.webp?v=1775254367
 ps31.webp	https://cdn.shopify.com/s/files/1/0806/0207/1291/files/ps31.webp
 ps32.webp	https://cdn.shopify.com/s/files/1/0806/0207/1291/files/ps32.webp
 ps33.webp	https://cdn.shopify.com/s/files/1/0806/0207/1291/files/ps33.webp
