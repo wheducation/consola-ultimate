@@ -49,7 +49,7 @@ def localizar(m):
         return 'assets/' + safe
     return m.group(0)
 
-html2 = re.sub(r'(?:https:)?//(?:cdn\.shopify\.com/s/files/1/0806/0207/1291/files|consolaultimate\.shop/cdn/shop/files)/(?P<name>[^"\'\s\\),?]+)(\?[^"\'\s\\),]*)?', localizar, html2)
+html2 = re.sub(r'(?:https:)?//(?:cdn\.shopify\.com/s/files/1/0806/0207/1291/files|cdn\.shopify\.com/s/files/1/0715/1137/5955/files|consolaultimate\.shop/cdn/shop/files)/(?P<name>[^"\'\s\\),?]+)(\?[^"\'\s\\),]*)?', localizar, html2)
 html2 = re.sub(r'(?:https:)?//consolaultimate\.shop/cdn/shop/t/17/assets/(?P<name>[^"\'\s\\),?]+)(\?[^"\'\s\\),]*)?', localizar, html2)
 
 # 5) formularios del carrito neutralizados
